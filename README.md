@@ -60,10 +60,10 @@
 
 Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 
-* Tony Merrien,
-* Rémi Plantade,
-* A Louis Chevalier,
-* Pancher Pierre-louis,
+* Tony Merrien.
+* Rémi Plantade.
+* A Louis Chevalier.
+* Pancher Pierre-louis.
 * Pierrick PEDRON,
 * Erwan METEYER,
-* Samuel Diabaté.
+
